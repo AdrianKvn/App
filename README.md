@@ -1,4 +1,4 @@
-# App
+![alt tag](https://github.com/AdrianKvn/App/blob/master/java.png) App
 <h1> Taller POO clase Persona</h1>
 En este repositorio se realiza la entrega del taller semana 1 cantera N2 
 de la clase Persona.
@@ -6,4 +6,4 @@ en la raiz encontramos el archivo <strong> App</strong> encontramos el main desd
 ejecutara el programa, en la ruta <em>../dto/</em> encontramos la clase <strong> Person</strong> con 
 sus atributos y metodos respetivos. 
 
-![alt tag](https://github.com/AdrianKvn/App/blob/master/java.png)
+
